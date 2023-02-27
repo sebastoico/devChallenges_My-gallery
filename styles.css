@@ -109,3 +109,18 @@ body {
   grid-column: 1 / 2;
   grid-row: 3 / 4;
 }
+
+footer {
+  margin-top: 44px;
+  text-align: center;
+}
+footer p {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7rem;
+  color: #B9BDCF;
+}
+footer a {
+  font-weight: 700;
+  color: #B9BDCF;
+}
